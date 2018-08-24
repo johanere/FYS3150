@@ -3,7 +3,7 @@ import numpy as np
 seed = 78858
 system = AST2000SolarSystemViewer(seed)
 
-
+a=1
 def rho(h):
     return p0*np.exp(-h/float(hscale))
 
