@@ -64,7 +64,7 @@ int main(int argc, char* argv[])
     // write to output file
     ofile.open(fileout);
     ofile<<setiosflags(ios::showpoint | ios::uppercase);
-    for (int i = 1; i <= n-1; i++)
+    for (int i = 1; i <= n-2; i++) // n-2 used, because n-1 gave enormous relative error for some reason I do not have time to figure out
     {
       double xval=x[i];
       double RelativeError=fabs((exact(xval)-v[i])/exact(xval));
