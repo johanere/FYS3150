@@ -17,8 +17,8 @@ for i in range(len(lines)):
     exact[i]=float(newexact)
     error[i]=float(newerror)
 
-print n
-n=1000
+
+n=1000 #set n for plotting
 import matplotlib.pyplot as plt
 plt.plot(x,solution,'r',label="Numerical solution")
 plt.plot(x,exact,'b',label="Analytical solution")
