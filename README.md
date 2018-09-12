@@ -1,6 +1,2 @@
 # FYS3150
-FYS3150 comphys fall 2018
-Add#
-did some stuff
-change from browser
-kake
+The folder Project 1 holds all programs used in this particular project.
