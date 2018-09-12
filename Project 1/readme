@@ -1,1 +1,6 @@
-asd
+ComP_p1.cpp	- program for solving the general tridiagonal case
+ComP_p1S.cpp		- program for solving the special tridiagonal case
+lu.cpp	 - program using standard LU decomposition
+
+errorplotter.py	-plotting of errors
+plotter.py -plotting of numerical vs. analytical solution
