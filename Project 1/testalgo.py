@@ -43,7 +43,7 @@ v[n-1]=b[n-1]/d[n-1]
 for i in range(n-2,0,-1):
     v[i]=(b[i]-c[i-1]*v[i+1])/d[i]
     
-#plott the shit
+#ploting
 import matplotlib.pyplot as plt
 plt.plot(x,v,'b',label="exact")
 plt.xlabel('x')
