@@ -1,1 +1,7 @@
+JRmain.cpp call on functions in BuildToeplitz.cpp and Jacobirotate.cpp to solve the first part of the project.
+UnitTest.cpp calls on the same functions.
 
+QHO contains the programs for the QHO with one electron
+QHO2e contains the pgorams for the qho with two electrons
+
+Codetesting contains programs used to test specific functions, and would not really be of interest to anyone besides the Author.
