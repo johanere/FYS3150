@@ -1,1 +1,4 @@
 
+QHOmain.cpp calls on functions in QHOBuildToeplitz.cpp and QHOJacobirotate.cpp
+
+plottingtest_1.py, plottingtest_2.py ,plottingtest_3.py  all produce plots used in the project report based on data from QHOmain.cpp
