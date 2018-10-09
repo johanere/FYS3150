@@ -1,1 +1,5 @@
 
+QHOmain2e.cpp calls on functions in QHOBuildToeplitz2e.cpp and QHOJacobirotate2e.cpp
+
+qho2e_plotter.py plots eigenstates for different frequencies
+qho2e_eigcomp.py compares eigenvalues
